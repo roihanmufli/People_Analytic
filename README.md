@@ -2,7 +2,7 @@
 
 ## Dataset berisi:
 
-train.csv - Data yang digunakan untuk melatih model \n
+train.csv - Data yang digunakan untuk melatih model
 test.csv - Data yang harus diprediksi
 
 Deksripsi Variabel :
